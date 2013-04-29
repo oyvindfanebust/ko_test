@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test</title>
+</head>
+<body>
+<p>First name: <strong data-bind="text: firstName"></strong></p>
+<p>Last name: <strong>todo</strong></p>
+
+<script src="build/build.js"></script>
+<script type="text/javascript">
+	var ko = require('knockout_test')();
+	var vm = require('ko_test')();
+	console.log(vm());
+	ko.applyBindings(vm());
+</script>
+</body>
+</html>

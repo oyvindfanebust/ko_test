@@ -1,0 +1,16 @@
+{
+  "name": "ko_test",
+  "repo": "oyvindfanebust/ko_test",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "oyvindfanebust/knockout_test": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
