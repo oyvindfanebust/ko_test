@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "oyvindfanebust/knockout_test": "*"
+    "oyvindfanebust/knockout": "*"
   },
   "development": {},
   "license": "MIT",
